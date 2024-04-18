@@ -1,6 +1,6 @@
 public class TestClass {
     public static void main(String args[]){
-        System.out.println("Pipeline");
+        System.outttt.println("Pipeline");
         B c = new C();
         System.out.println(c.max(10, 20));
     }
